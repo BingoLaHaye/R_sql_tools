@@ -1,4 +1,4 @@
-Package: R_SQL_Tools
+Package: r_sql_Tools
 Type: Package
 Title: A series of common functions for developing R and SQL
 Version: 0.1.0
